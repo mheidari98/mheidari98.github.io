@@ -64,12 +64,10 @@ Skills
 
 
 * **Fields of Interest**
-  * Software Engineering
-  * Software Testing
-  * Formal Verification
-  * Agile Development
-  * Cloud Computing
-  * Entrepreneurship
+  * Software Security
+  * Vulnerability Detection
+  * Security of Mobile Platforms and Embedded Systems
+
 
 Publications
 ======
