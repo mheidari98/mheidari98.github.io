@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,19 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering (Software Engineering Spec), Isfahan University of Technology, 2021
+* **B.S. in Computer Engineering** (Software Engineering Spec), Isfahan University of Technology, Sep 2017 – Present
+* **Diploma in Mathematics** , Shahid Beheshti HighSchool, Sep 2013 – Jun 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
